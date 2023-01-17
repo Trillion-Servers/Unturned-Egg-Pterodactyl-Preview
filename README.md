@@ -2,11 +2,11 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/griffindor30/unturned-egg-preview.svg?style=flat)](https://hub.docker.com/r/griffindor30/unturned-egg-preview)
 [![Discord](https://img.shields.io/discord/328932413428465674)](https://discord.gg/BbnkdtX)
 ![](https://img.shields.io/badge/status-prod-informational)
-[![GitHub license](https://img.shields.io/github/license/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview)](https://github.com/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview/StrapDown.js/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview)](https://GitHub.com/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview/releases/)
-[![Github all releases](https://img.shields.io/github/downloads/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview/total.svg)](https://GitHub.com/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview/releases/)
-[![GitHub issues](https://img.shields.io/github/issues/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview)](https://GitHub.com/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview-Preview/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview-Preview)](https://GitHub.com/GriffindorsDevelopment/Unturned-Egg-Pterodactyl-Preview-Preview/StrapDown.js/pull/)
+[![GitHub license](https://img.shields.io/github/license/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview)](https://github.com/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview/StrapDown.js/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview)](https://GitHub.com/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview/total.svg)](https://GitHub.com/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview/releases/)
+[![GitHub issues](https://img.shields.io/github/issues/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview)](https://GitHub.com/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview-Preview/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview-Preview)](https://GitHub.com/Trillion-Servers/Unturned-Egg-Pterodactyl-Preview-Preview/StrapDown.js/pull/)
 
 ## Features
 - Using Untured Dedicated Server(64-bit Linux Version) for a better performance
