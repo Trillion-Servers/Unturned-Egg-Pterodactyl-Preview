@@ -11,7 +11,7 @@
     "gsl_token",
     "steam_disk_space"
   ],
-  "image": "griffindor30\/unturned-egg:latest",
+  "image": "griffindor30\/unturned-egg:preview",
   "startup": ".\/Unturned_Headless.x86_64 -batchmode -nographics -ThreadedConsole -port {{SERVER_PORT}} -maxplayers {{MAX_PLAYERS}} -map \"{{SERVER_MAP}}\" -perspective {{PERSPECTIVE}} -mode {{GAMEMODE}} -name \"{{NAME}}\" -{{PVEPVP}} -password {{PASSWORD}} -gslt {{STEAM_ACC}} -owner {{OWNER}} -welcome \"{{WELCOME}}\"  -LogSteamNetworkingSockets=0 +InternetServer\/{{SERVER_FOLDER}}",
   "config": {
     "files": "{}",
